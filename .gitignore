@@ -1,0 +1,20 @@
+# Ignore Maven's target directory
+/target/
+
+# Eclipse settings and project files
+.project
+.classpath
+.settings/
+
+# Log files and temporary files
+*.log
+*.tmp
+
+# Ignore specific OS or IDE-related files
+.DS_Store
+Thumbs.db
+
+# Ignore Tomcat files
+/work/
+/logs/
+/temp/
